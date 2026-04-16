@@ -1,0 +1,16 @@
+{
+  "name": "arizona-utilities",
+  "version": "1.0.0",
+  "description": "Arizona Utilities - ERLC Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.23.0",
+    "node-fetch": "^2.7.0"
+  }
+}
